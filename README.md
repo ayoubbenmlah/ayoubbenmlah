@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 💬My name is Ayoub ben mlah and i like programming.
+- 💬My name is Ayoub ben mlah and i like programming
 - 🔭 I'm currently working on getting my undergrad degree in TIC
 - 🌱 C/Linux/Python/Js,And a bit more stuff
 - 📫 You can reach me via my student mail ayoub.benmlah@issatm.ucar.tn
